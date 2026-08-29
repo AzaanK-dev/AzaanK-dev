@@ -1,10 +1,199 @@
-# 💫 About Me:
-⚡ Full Stack Developer | Frontend Specialist | Future Software Engineer<br><br>Driven by curiosity and innovation, I specialize in creating responsive, high-performance web applications using React, Tailwind CSS, Firebase, Express.js, Node.js, and MongoDB. With additional expertise in Java, and C++, I enjoy solving challenging problems, optimizing user experiences, and turning ambitious ideas into elegant software solutions. Always learning, always building, and always striving for excellence.<br><br>"Code with purpose. Build with impact. Learn without limits." 🚀
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F8FAFC,50:E0E7FF,100:CFFAFE&height=200&section=header&text=AZAAN%20MEHTAB%20KHAN&fontSize=46&fontColor=1E1B4B&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20AI%20Engineering&descAlignY=62&descSize=16&descColor=4C1D95&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azaan.k_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azaan-mehtab-khan-556a86369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azaanmehtabk@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+<!-- Animated typing subline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=7C3AED,0891B2&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+interfaces;Building+AI-integrated+backend+systems;Currently%3A+Backend+AI+Engineer+Intern+%40+Flyrank" alt="Typing SVG" />
 
+</div>
+
+<br/>
+
+## `whoami`
+
+I'm a **Software Engineering undergraduate** at UBIT, University of Karachi — currently a **Backend AI Engineer Intern at Flyrank AI**, and previously a **Frontend Developer at Naxasware**, where I turned raw designs into production-ready interfaces. I build with React and Next.js, and I'm leveling up into backend systems and AI-integrated engineering — one project at a time, one bug at a time. 🚀
+
+I don't just write code — I obsess over **why** it works, **how** it scales, and **what** it feels like to use.
+
+```txt
+const azaan = {
+  location: "Karachi, Pakistan 🇵🇰",
+  role: "Backend AI Engineer Intern @ Flyrank AI",
+  previously: "Frontend Developer @ Naxasware",
+  education: "BSSE, UBIT — University of Karachi (Expected Dec 2028)",
+  stack: ["React.js", "Next.js", "TypeScript", "Node.js", "Firebase"],
+  currentFocus: "AI-integrated backend systems & scalable full-stack products",
+  openTo: ["Software Engineering", "Full-Stack", "Backend", "AI Engineering"],
+  motto: "Ship things that work, not just things that demo well.",
+};
+```
+
+<br/>
+
+## ⚡ The Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,firebase,mongodb,sqlite,django,python,cpp,java,git,github&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### 🎨 Frontend
+```
+React.js
+Next.js
+HTML5 / CSS3
+Tailwind CSS
+Framer Motion
+```
+
+</td>
+<td valign="top" width="25%">
+
+### ⚙️ Backend
+```
+Node.js
+Express.js
+Django
+REST APIs
+```
+
+</td>
+<td valign="top" width="25%">
+
+### 🗄️ Data
+```
+MongoDB
+SQLite3
+Firebase Auth
+Firestore
+```
+
+</td>
+<td valign="top" width="25%">
+
+### 🧠 Languages
+```
+JavaScript
+TypeScript
+Python
+C++ / Java
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 SkillNest
+**GitHub activity → auto-built resume**
+
+`React` `Tailwind` `GitHub API` `Axios`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Shophub
+**Full e-commerce, cart to checkout**
+
+`React` `Firebase` `Tailwind` `React Router`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Echoplay
+**YouTube's backend, rebuilt from scratch**
+
+`Node.js` `Express.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### ⛅ AeroCasta
+**Real-time weather, 7 days ahead**
+
+`JavaScript` `Tailwind` `OpenMeteo API`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### ✍️ Blogzaan
+**Full-CRUD blogging, live and animated**
+
+`React` `Firebase` `Context API`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Background
+
+```
+Present         Backend AI Engineer Intern, Flyrank AI
+                 → AI-driven backend systems & integrations
+
+May – Aug 2026   Frontend Developer, Naxasware
+                 → Shipped production UIs in React/Next.js, focused on performance & UX
+
+Exp. Dec 2028    BSSE, UBIT — University of Karachi
+```
+
+**🏆 Certifications:** Frontend Development · MS-Office (Advanced) — Techzone Learning
+**🤝 Community:** Technical Team Member, AWS Cloud Club (UOK) · Volunteer, ICISCT & Career Fest
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AzaanK-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzaanK-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzaanK-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE" />
+
+</div>
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://github.com/AzaanK-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:azaanmehtabk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/AzaanK-dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>💡 Open to Software Engineering, Full-Stack, Backend, and AI Engineering roles — let's build something worth shipping.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:CFFAFE,50:E0E7FF,100:F8FAFC&height=100&section=footer" width="100%"/>
