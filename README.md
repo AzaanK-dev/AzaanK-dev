@@ -178,8 +178,8 @@ Exp. Dec 2028    BSSE, UBIT — University of Karachi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://github.com/AzaanK-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://azaanmehtabkhanportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/azaan-mehtab-khan/)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:azaanmehtabk@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/AzaanK-dev)
 
