@@ -42,51 +42,46 @@ const azaan = {
 
 <br/>
 
-<table>
+<table width="100%">
+<colgroup>
+<col width="25%"><col width="25%"><col width="25%"><col width="25%">
+</colgroup>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### 🎨 Frontend
-```
-React.js
-Next.js
-HTML5 / CSS3
-Tailwind CSS
-Framer Motion
-```
+
+`React.js` `Next.js`
+`HTML5` `CSS3`
+`Tailwind CSS`
+`Framer Motion`
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### ⚙️ Backend
-```
-Node.js
-Express.js
-Django
-REST APIs
-```
+
+`Node.js` `Express.js`
+`Django`
+`REST APIs`
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
-### 🗄️ Data
-```
-MongoDB
-SQLite3
-Firebase Auth
-Firestore
-```
+### 🗄️ Databases
+
+`MongoDB` `SQLite3`
+`Firebase Auth`
+`Firestore`
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="25%" align="center">
 
 ### 🧠 Languages
-```
-JavaScript
-TypeScript
-Python
-C++ / Java
-```
+
+`JavaScript` `TypeScript`
+`Python`
+`C++` `Java`
 
 </td>
 </tr>
@@ -96,7 +91,7 @@ C++ / Java
 
 ## 🚀 Featured Work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
